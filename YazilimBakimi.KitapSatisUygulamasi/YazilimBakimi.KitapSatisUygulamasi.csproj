@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BCAE56C1-38A2-4F22-8AA3-14785721DAD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>YazilimBakimi.KitapSatisUygulamasi</RootNamespace>
+    <AssemblyName>YazilimBakimi.KitapSatisUygulamasi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\DbBook.cs" />
+    <Compile Include="Classes\DbGenre.cs" />
+    <Compile Include="Classes\DbSale.cs" />
+    <Compile Include="EntityClasses\Book.cs" />
+    <Compile Include="EntityClasses\Sale.cs" />
+    <Compile Include="Forms\AdminLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminLoginForm.Designer.cs">
+      <DependentUpon>AdminLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Cryptology.cs" />
+    <Compile Include="Classes\DbWriter.cs" />
+    <Compile Include="Forms\BookForms\BookCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BookForms\BookCreateForm.Designer.cs">
+      <DependentUpon>BookCreateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BookForms\BookCRUDForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BookForms\BookCRUDForm.Designer.cs">
+      <DependentUpon>BookCRUDForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BookForms\BookUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BookForms\BookUpdateForm.Designer.cs">
+      <DependentUpon>BookUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SalesForms\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SalesForms\CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SalesForms\SalesCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SalesForms\SalesCRUD.Designer.cs">
+      <DependentUpon>SalesCRUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SalesForms\SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SalesForms\SalesForm.Designer.cs">
+      <DependentUpon>SalesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterCreateForm.Designer.cs">
+      <DependentUpon>WriterCreateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterCRUDForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterCRUDForm.Designer.cs">
+      <DependentUpon>WriterCRUDForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WriterForms\WriterUpdateForm.Designer.cs">
+      <DependentUpon>WriterUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="KitapSatisDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KitapSatisDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EntityClasses\Writer.cs" />
+    <EmbeddedResource Include="Forms\AdminLoginForm.resx">
+      <DependentUpon>AdminLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BookForms\BookCreateForm.resx">
+      <DependentUpon>BookCreateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BookForms\BookCRUDForm.resx">
+      <DependentUpon>BookCRUDForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BookForms\BookUpdateForm.resx">
+      <DependentUpon>BookUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SalesForms\CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SalesForms\SalesCRUD.resx">
+      <DependentUpon>SalesCRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SalesForms\SalesForm.resx">
+      <DependentUpon>SalesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WriterForms\WriterCreateForm.resx">
+      <DependentUpon>WriterCreateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WriterForms\WriterCRUDForm.resx">
+      <DependentUpon>WriterCRUDForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WriterForms\WriterUpdateForm.resx">
+      <DependentUpon>WriterUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="KitapSatisDataSet.xsc">
+      <DependentUpon>KitapSatisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet.xss">
+      <DependentUpon>KitapSatisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet1.xsc">
+      <DependentUpon>KitapSatisDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet1.xss">
+      <DependentUpon>KitapSatisDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet2.xsc">
+      <DependentUpon>KitapSatisDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet2.xss">
+      <DependentUpon>KitapSatisDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet3.xsc">
+      <DependentUpon>KitapSatisDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet3.xss">
+      <DependentUpon>KitapSatisDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet4.xsc">
+      <DependentUpon>KitapSatisDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet4.xss">
+      <DependentUpon>KitapSatisDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet5.xsc">
+      <DependentUpon>KitapSatisDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet5.xss">
+      <DependentUpon>KitapSatisDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet6.xsc">
+      <DependentUpon>KitapSatisDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet6.xss">
+      <DependentUpon>KitapSatisDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet7.xsc">
+      <DependentUpon>KitapSatisDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet7.xss">
+      <DependentUpon>KitapSatisDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet8.xsc">
+      <DependentUpon>KitapSatisDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet8.xss">
+      <DependentUpon>KitapSatisDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet9.xsc">
+      <DependentUpon>KitapSatisDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="KitapSatisDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KitapSatisDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KitapSatisDataSet9.xss">
+      <DependentUpon>KitapSatisDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\add.png" />
+    <Content Include="Images\admin.png" />
+    <Content Include="Images\back-arrow - Kopya.png" />
+    <Content Include="Images\back-arrow.png" />
+    <Content Include="Images\book.png" />
+    <Content Include="Images\delete.png" />
+    <Content Include="Images\refresh.png" />
+    <Content Include="Images\sale.png" />
+    <Content Include="Images\update.png" />
+    <Content Include="Images\user.png" />
+    <Content Include="Images\writer.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\minus.png" />
+    <None Include="Images\writerBig.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

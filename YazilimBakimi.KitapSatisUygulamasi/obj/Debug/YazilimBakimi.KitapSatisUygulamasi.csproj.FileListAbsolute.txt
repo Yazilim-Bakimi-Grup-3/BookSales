@@ -1,0 +1,325 @@
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Berke\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Berkin\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+\\Mac\Home\Desktop\BookSalesApplication\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\YunusEmre\Desktop\BookSalesApp-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Berke\Desktop\BookSales-master\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\OneDrive\Masaüstü\bakım\BookSales\BookSales v2.0\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Downloads\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\BookSales v2.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\aaa\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\Enes\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCreateForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookCRUDForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.BookUpdateForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.ForgetPassword.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.HomeForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.CustomerForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesCRUD.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.SalesForms.SalesForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCreateForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterCRUDForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Forms.WriterUpdateForm.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CopyComplete
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\YunusEmre\Desktop\BookSales v3.0\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
